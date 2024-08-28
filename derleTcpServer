@@ -1,0 +1,2 @@
+gcc tcpServer.c -o tcpServer -lpthread && ./tcpServer
+

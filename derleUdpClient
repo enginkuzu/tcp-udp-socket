@@ -1,0 +1,2 @@
+gcc udpClient.c -o udpClient && ./udpClient
+

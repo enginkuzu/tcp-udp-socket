@@ -1,0 +1,2 @@
+gcc udpServer.c -o udpServer && ./udpServer
+

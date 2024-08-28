@@ -1,0 +1,2 @@
+gcc tcpClient.c -o tcpClient -lpthread && ./tcpClient
+

@@ -1,0 +1,2 @@
+gcc mainClient.c -o mainClient -lpthread && ./mainClient
+
